@@ -1,1 +1,2 @@
-[ÎÒµÄblog](https://github.com/Samtoto/blog/issues) 
+[æˆ‘çš„blog](https://github.com/Samtoto/blog/issues) 
+[my blog](https://github.com/Samtoto/blog/issues) 
